@@ -1,4 +1,5 @@
 # Fetch Rewards Coding Test
+All relevant files are in the "fetch" folder.
 
 **Part 1: Unstructured Data to Relational Data Model**
 The notebook "fetch_pt1_data" contains code to parse the json data into SQL tables and a link to the relational data model diagram. The diagram is also saved in the repository titled fetch-dbdesigner.pdf.
